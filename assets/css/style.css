@@ -14,4 +14,10 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 2em;
     color: rgb(255, 255, 0);
+    text-align: center;
+}
+
+@media only screen and (max-width: 645px){
+    body {
+        font-size: 1em;
 }
